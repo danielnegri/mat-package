@@ -63,7 +63,7 @@
           </ul>
         </li>
       </a>
-      <a href="#media">
+      <a href="#index">
         <li>Média
           <ul style="list-style-type: disc;">
             <a href="#mediaArit">
@@ -413,7 +413,7 @@ mat.eqSegGrauFra(1, -5, 6);
 ```
 
 <br>
-<h2 id="media">Média:</h2>
+<h2 id="index">Média:</h2>
 Nesta seção iremos utilizar arrays como parametros, é válido ressaltar que média tratamos de diversos valores, por isso essa abordagem com arrays.
 
 <br>
@@ -425,7 +425,7 @@ Utilize arrays como parametros
 ```js
 const notas = [ 10, 8, 7, 8 ];
 
-mat.media(notas);
+mat.index(notas);
 // 8.25
 ```
 

@@ -1,10 +1,10 @@
-const config = require("./dist/Config/config");
-const operacoes = require("./dist/Operacoes/operacoes");
-const geometria = require("./dist/Geometria/geometria");
-const math = require("./dist/Math/math");
-const equacoes = require("./dist/Equacoes/equacoes");
-const media = require("./dist/Media/media");
-const conversor = require("./dist/Conversor/conversor");
+const config = require("./dist/config");
+const operacoes = require("./dist/Operacoes");
+const geometria = require("./dist/Geometria");
+const math = require("./dist/Math");
+const equacoes = require("./dist/Equacoes");
+const media = require("./dist/Media");
+const conversor = require("./dist/Conversor");
 
 module.exports = {
   ...config,

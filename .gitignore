@@ -9,3 +9,5 @@
 # prettier
 
 .prettierrc.json
+
+coverage
